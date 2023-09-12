@@ -6,7 +6,7 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alisher Eshmurodov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisher-eshmurodov/)](https://www.linkedin.com/in/alisher-eshmurodov/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alisher_Eshmurodov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisher-eshmurodov/)](https://www.linkedin.com/in/alisher-eshmurodov/) 
 [![Telegram Badge](https://img.shields.io/badge/@alisherEshmurodov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/alisher_6040)](https://t.me/alisher_6040) 
 
   
