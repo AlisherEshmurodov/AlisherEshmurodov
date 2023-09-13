@@ -39,4 +39,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alisher2020&show_icons=true&theme=gotham" alt="alisherEshmurodov" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisher2020&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="alisherEshmurodov" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisher2020&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="alisherEshmurodov" /></a></p>
