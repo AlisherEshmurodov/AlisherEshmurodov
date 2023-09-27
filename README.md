@@ -37,6 +37,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alisher2020&show_icons=true&theme=gotham" alt="alisherEshmurodov" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alisherEshmurodov&show_icons=true&theme=gotham" alt="alisherEshmurodov" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisherEshmurodov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="alisherEshmurodov" /></a></p>
